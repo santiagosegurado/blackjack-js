@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+html, body {
+    background-color: #2F4F30;
+    color: #fff;
+}
+
+header {
+    background-color: black;
+    padding: 10px;
+    text-align: center;
+}
+
+.carta{
+    position: relative;
+    width:150px;
+    left: 100px;
+    margin-left: -75px;
+}
+
+
+#jugador-cartas{
+    min-height: 180px;
+}
